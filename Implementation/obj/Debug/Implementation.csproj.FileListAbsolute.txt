@@ -1,0 +1,16 @@
+D:\KPMG_Showcase\Library Reusable\Implementation\bin\Debug\Implementation.exe.config
+D:\KPMG_Showcase\Library Reusable\Implementation\bin\Debug\Implementation.exe
+D:\KPMG_Showcase\Library Reusable\Implementation\bin\Debug\Implementation.pdb
+D:\KPMG_Showcase\Library Reusable\Implementation\bin\Debug\Orion.CodeLibrary.FileRestore.dll
+D:\KPMG_Showcase\Library Reusable\Implementation\obj\Debug\Implementation.csprojResolveAssemblyReference.cache
+D:\KPMG_Showcase\Library Reusable\Implementation\obj\Debug\Implementation.exe
+D:\KPMG_Showcase\Library Reusable\Implementation\obj\Debug\Implementation.pdb
+D:\KPMG_Showcase\Library Reusable\Implementation\bin\Debug\Orion.CodeLibrary.FileRestore.pdb
+D:\GITRepository\RestoreLibraries\Implementation\bin\Debug\Implementation.exe.config
+D:\GITRepository\RestoreLibraries\Implementation\obj\Debug\Implementation.exe
+D:\GITRepository\RestoreLibraries\Implementation\obj\Debug\Implementation.pdb
+D:\GITRepository\RestoreLibraries\Implementation\bin\Debug\Implementation.exe
+D:\GITRepository\RestoreLibraries\Implementation\bin\Debug\Implementation.pdb
+D:\GITRepository\RestoreLibraries\Implementation\bin\Debug\Hexgen.CodeLibrary.FileRestore.dll
+D:\GITRepository\RestoreLibraries\Implementation\bin\Debug\Hexgen.CodeLibrary.FileRestore.pdb
+D:\GITRepository\RestoreLibraries\Implementation\obj\Debug\Implementation.csprojResolveAssemblyReference.cache

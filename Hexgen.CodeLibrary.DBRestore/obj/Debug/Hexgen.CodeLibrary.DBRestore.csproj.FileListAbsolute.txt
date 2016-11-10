@@ -1,0 +1,14 @@
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\bin\Debug\Hexgen.CodeLibrary.DBRestore.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\bin\Debug\Hexgen.CodeLibrary.DBRestore.pdb
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\obj\Debug\Hexgen.CodeLibrary.DBRestore.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\obj\Debug\Hexgen.CodeLibrary.DBRestore.pdb
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.DBRestore\obj\Debug\Hexgen.CodeLibrary.DBRestore.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.FileRestore\bin\Debug\Orion.CodeLibrary.FileRestore.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.FileRestore\bin\Debug\Orion.CodeLibrary.FileRestore.pdb
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.FileRestore\obj\Debug\Orion.CodeLibrary.FileRestore.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.FileRestore\obj\Debug\Orion.CodeLibrary.FileRestore.pdb

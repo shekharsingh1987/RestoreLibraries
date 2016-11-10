@@ -1,0 +1,6 @@
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.CubeRestore\bin\Debug\Hexgen.CodeLibrary.CubeRestore.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.CubeRestore\bin\Debug\Hexgen.CodeLibrary.CubeRestore.pdb
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.CubeRestore\bin\Debug\Microsoft.AnalysisServices.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.CubeRestore\obj\Debug\Hexgen.CodeLibrary.CubeRestore.csprojResolveAssemblyReference.cache
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.CubeRestore\obj\Debug\Hexgen.CodeLibrary.CubeRestore.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.CubeRestore\obj\Debug\Hexgen.CodeLibrary.CubeRestore.pdb

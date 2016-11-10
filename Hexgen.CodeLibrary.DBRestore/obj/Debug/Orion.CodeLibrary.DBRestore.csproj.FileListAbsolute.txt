@@ -1,0 +1,15 @@
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\bin\Debug\Orion.CodeLibrary.DBRestore.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\bin\Debug\Orion.CodeLibrary.DBRestore.pdb
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\obj\Debug\Orion.CodeLibrary.DBRestore.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\obj\Debug\Orion.CodeLibrary.DBRestore.pdb
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.DBRestore\obj\Debug\Orion.CodeLibrary.DBRestore.csprojResolveAssemblyReference.cache

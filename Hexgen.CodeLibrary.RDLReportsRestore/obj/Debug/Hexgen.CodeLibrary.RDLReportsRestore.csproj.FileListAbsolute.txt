@@ -1,0 +1,5 @@
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.RDLReportsRestore\bin\Debug\Hexgen.CodeLibrary.RDLReportsRestore.dll.config
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.RDLReportsRestore\bin\Debug\Hexgen.CodeLibrary.RDLReportsRestore.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.RDLReportsRestore\bin\Debug\Hexgen.CodeLibrary.RDLReportsRestore.pdb
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.RDLReportsRestore\obj\Debug\Hexgen.CodeLibrary.RDLReportsRestore.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.RDLReportsRestore\obj\Debug\Hexgen.CodeLibrary.RDLReportsRestore.pdb

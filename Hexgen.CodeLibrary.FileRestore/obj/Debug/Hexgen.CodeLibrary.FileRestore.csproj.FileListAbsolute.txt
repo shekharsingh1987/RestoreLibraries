@@ -1,0 +1,4 @@
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.FileRestore\bin\Debug\Hexgen.CodeLibrary.FileRestore.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.FileRestore\bin\Debug\Hexgen.CodeLibrary.FileRestore.pdb
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.FileRestore\obj\Debug\Hexgen.CodeLibrary.FileRestore.dll
+D:\GITRepository\RestoreLibraries\Hexgen.CodeLibrary.FileRestore\obj\Debug\Hexgen.CodeLibrary.FileRestore.pdb

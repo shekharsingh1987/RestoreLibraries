@@ -1,0 +1,6 @@
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.CubeRestore\bin\Debug\Orion.CodeLibrary.CubeRestore.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.CubeRestore\bin\Debug\Orion.CodeLibrary.CubeRestore.pdb
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.CubeRestore\bin\Debug\Microsoft.AnalysisServices.DLL
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.CubeRestore\obj\Debug\Orion.CodeLibrary.CubeRestore.csprojResolveAssemblyReference.cache
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.CubeRestore\obj\Debug\Orion.CodeLibrary.CubeRestore.dll
+D:\KPMG_Showcase\Library Reusable\Orion.CodeLibrary.CubeRestore\obj\Debug\Orion.CodeLibrary.CubeRestore.pdb
